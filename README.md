@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hemanthshk
+- 👋 Hi, I’m @Hemanth_Kumar
 - 👀 I’m interested in programming & software Development
 - 🌱 I’m currently learning DS Algos & Full stack dev
 - 💞️ I’m looking to collaborate on Software Design & Development
